@@ -1,0 +1,12 @@
+.clock{  
+ display: flex;
+ align-items: center;
+ justify-content: center;   
+}
+
+h1{
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;
+}
